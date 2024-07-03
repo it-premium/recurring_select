@@ -1,0 +1,8 @@
+uk:
+  recurring_select:
+    not_recurring: "- не повторюється-"
+    change_schedule: "Змінити розклад..."
+    set_schedule: "Встановити розклад..."
+    new_custom_schedule: "Новий власний розклад..."
+    custom_schedule: "Власний розклад..."
+    or: или
